@@ -1,4 +1,6 @@
-# Arslan Asghar — Code Space
+<p>
+  https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Arslan%20Asghar&animation=twinkling&section=header&reversal=true&fontColor=black&textBg=false
+</p>
 
 Welcome to Arslan Asghar's starter code space.
 
