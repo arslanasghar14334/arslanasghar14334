@@ -1,16 +1,15 @@
-## Hi there 👋
+# Arslan Asghar — Code Space
 
-<!--
-**arslanasghar14334/arslanasghar14334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to Arslan Asghar's starter code space.
 
-Here are some ideas to get you started:
+## What's included
+- Reproducible devcontainer for GitHub Codespaces / VS Code Remote
+- VS Code settings & recommended extensions
+- Small Python starter app in `src/`
+- GitHub Actions CI for Python tests
+- Makefile for common tasks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quickstart (GitHub Codespaces)
+1. Push this repo to GitHub.
+2. Click **Code → Open with Codespaces → New codespace** (or open in VS Code and choose *Reopen in Container*).
+3. The devcontainer will build; then run:
