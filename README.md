@@ -1,17 +1,9 @@
-<p>
-  https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Arslan%20Asghar&animation=twinkling&section=header&reversal=true&fontColor=black&textBg=false
+<p align="center">
+  <img src=https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Arslan%20Asghar&animation=twinkling&section=header&reversal=true&fontColor=black&textBg=false
 </p>
 
-Welcome to Arslan Asghar's starter code space.
-
-## What's included
-- Reproducible devcontainer for GitHub Codespaces / VS Code Remote
-- VS Code settings & recommended extensions
-- Small Python starter app in `src/`
-- GitHub Actions CI for Python tests
-- Makefile for common tasks
-
-## Quickstart (GitHub Codespaces)
-1. Push this repo to GitHub.
-2. Click **Code → Open with Codespaces → New codespace** (or open in VS Code and choose *Reopen in Container*).
-3. The devcontainer will build; then run:
+<p align="center">
+  <a href="https://www.linkedin.com/in/alishan-arshad/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
